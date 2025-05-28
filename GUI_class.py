@@ -25,7 +25,7 @@ class GUI:
 
 
         self.label = tk.Label(self.root, text="Start typing...", font=("Monospace", 18))
-        self.label.pack(padx=10, pady=10)
+        self.label.pack(padx=5, pady=10)
 
 
         self.text_box = tk.Text(self.root, height=5, font=("Monospace", 14))
