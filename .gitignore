@@ -163,3 +163,5 @@ cython_debug/
 .idea/
 
 desktop.ini
+test.py
+test_GUI_class.py
